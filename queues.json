@@ -1,0 +1,16 @@
+{
+    "numbers": {
+        "size": 3,
+        "items": [
+            1,
+            2
+        ]
+    },
+    "letters": {
+        "size": 2,
+        "items": [
+            "A",
+            "B"
+        ]
+    }
+}
