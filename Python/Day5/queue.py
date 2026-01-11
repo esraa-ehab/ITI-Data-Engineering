@@ -78,9 +78,9 @@ q2.insert("A")
 q2.insert("B")
 print(q1.__dict__)
 
-NameQueue.save_queue("queues.json")
+NameQueue.save_queue("Day5/queues.json")
 
-NameQueue.load_queue("queues.json")
+NameQueue.load_queue("Day5/queues.json")
 
 q = NameQueue.search_queue("numbers")
 print(q.__dict__)
